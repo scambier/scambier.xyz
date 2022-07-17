@@ -40,7 +40,7 @@
 
 	<div class="max-w-4xl divide-y divide-stone-600 md:divide-y-0">
 		{#each items as link}
-			<ImageAndText imageHref={`images/${link.image}`}>
+			<ImageAndText imageHref={`/images/${link.image}`}>
 				<ExternalLink href={link.href}>{link.name}</ExternalLink> -
 				{@html link.description}
 			</ImageAndText>

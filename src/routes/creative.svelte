@@ -117,7 +117,7 @@ flip()goto _`
 <div class="flex flex-wrap gap-2 justify-center items-center w-full">
 	{#each tweetcarts as cart}
 		<span class="relative">
-			<img src={`images/tweetcarts/${cart.gif}`} />
+			<img src={`/images/tweetcarts/${cart.gif}`} />
 			<pre
 				class="absolute top-0 left-0 w-full max-w-full h-full whitespace-pre-wrap break-words bg-neutral-900/80 opacity-0 hover:opacity-100 duration-500">{cart.code}</pre>
 		</span>

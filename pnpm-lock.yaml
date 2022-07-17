@@ -10,6 +10,7 @@ specifiers:
   eslint: ^8.16.0
   eslint-config-prettier: ^8.3.0
   eslint-plugin-svelte3: ^4.0.0
+  plausible-tracker: ^0.3.8
   postcss: ^8.4.14
   prettier: ^2.6.2
   prettier-plugin-svelte: ^2.7.0
@@ -31,6 +32,7 @@ devDependencies:
   eslint: 8.19.0
   eslint-config-prettier: 8.5.0_eslint@8.19.0
   eslint-plugin-svelte3: 4.0.0_eslint@8.19.0+svelte@3.49.0
+  plausible-tracker: 0.3.8
   postcss: 8.4.14
   prettier: 2.7.1
   prettier-plugin-svelte: 2.7.0_prettier@2.7.1+svelte@3.49.0
@@ -1595,6 +1597,11 @@ packages:
   /pify/2.3.0:
     resolution: {integrity: sha512-udgsAY+fTnvv7kI7aaxbqwWNb0AHiB0qBO89PZKPkoTmGOgdbrHDKD+0B2X4uTfJ/FT1R09r9gTsjUjNJotuog==}
     engines: {node: '>=0.10.0'}
+    dev: true
+
+  /plausible-tracker/0.3.8:
+    resolution: {integrity: sha512-lmOWYQ7s9KOUJ1R+YTOR3HrjdbxIS2Z4de0P/Jx2dQPteznJl2eX3tXxKClpvbfyGP59B5bbhW8ftN59HbbFSg==}
+    engines: {node: '>=10'}
     dev: true
 
   /postcss-import/14.1.0_postcss@8.4.14:
