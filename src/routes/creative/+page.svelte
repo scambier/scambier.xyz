@@ -1,6 +1,6 @@
 <script lang="ts">
-	import ExternalLink from '../components/ExternalLink.svelte';
-	import TitleH2 from '../components/title-h2.svelte';
+	import ExternalLink from '../../components/ExternalLink.svelte';
+	import TitleH2 from '../../components/title-h2.svelte';
 
 	const tweetcarts = [
 		{

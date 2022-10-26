@@ -1,7 +1,7 @@
 <script lang="ts">
-	import ExternalLink from '../components/ExternalLink.svelte';
-	import TitleH2 from '../components/title-h2.svelte';
-	import ImageAndText from '../components/ImageAndText.svelte';
+	import ExternalLink from '../../components/ExternalLink.svelte';
+	import TitleH2 from '../../components/title-h2.svelte';
+	import ImageAndText from '../../components/ImageAndText.svelte';
 </script>
 
 <TitleH2>Tools & librairies</TitleH2>

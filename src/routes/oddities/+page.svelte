@@ -1,7 +1,7 @@
 <script lang="ts">
-	import TitleH2 from '../components/title-h2.svelte';
-	import ExternalLink from '../components/ExternalLink.svelte';
-	import ImageAndText from '../components/ImageAndText.svelte';
+	import TitleH2 from '../../components/title-h2.svelte';
+	import ExternalLink from '../../components/ExternalLink.svelte';
+	import ImageAndText from '../../components/ImageAndText.svelte';
 
 	const items = [
 		{
