@@ -109,7 +109,7 @@ flip()goto _`
 	Tweetcarts are <ExternalLink href="https://www.lexaloffle.com/pico-8.php">PICO-8</ExternalLink> programs
 	that are written in 280 characters or less, so that they can fit in a tweet.
 </p>
-<p>
+<p class="mb-2">
 	Hover or touch the images to see the code. If you have a copy of PICO-8 you can paste it directly
 	and see it run.
 </p>

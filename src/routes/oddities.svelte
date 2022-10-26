@@ -37,7 +37,9 @@
 
 <div>
 	<TitleH2>Cabinet of oddities</TitleH2>
-
+    <p class="mb-2">
+        Weird interactive toys. Click on their link to play.
+    </p>
 	<div class="max-w-4xl divide-y divide-stone-600 md:divide-y-0">
 		{#each items as link}
 			<ImageAndText imageHref={`/images/${link.image}`}>

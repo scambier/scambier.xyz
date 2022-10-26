@@ -19,7 +19,7 @@
 
 	<ImageAndText imageHref="/images/drop.gif" imageAlt="The title screen of the game 'Drop'">
 		<ExternalLink href="/drop">Drop</ExternalLink> - An infinite runner. Drop and bounce on the blocks,
-		break them, rise your combo and stay on the screen. Made with Vue 3 and Tailwinds. Made in PICO-8.
+		break them, rise your combo and stay on the screen. Made in PICO-8.
 	</ImageAndText>
 </div>
 

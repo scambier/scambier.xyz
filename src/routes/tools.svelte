@@ -15,16 +15,6 @@
 		thanks to its smart weighting algorithm.
 	</ImageAndText>
 
-    <ImageAndText
-      imageHref="/images/obsidian-badge.png">
-      Obsidian plugin badges - A simple shields.io badge showing the official download count of an Obsidian Plugin
-      <ol class="list-decimal list-outside ml-4">
-        <li>Get your url in the form of <code class="border rounded border-indigo-500 px-1">https://scambier.xyz/obsidian-endpoints/your-plugin-id.json</code></li>
-        <li>Use this json with <ExternalLink href="https://shields.io/endpoint">https://shields.io/endpoint</ExternalLink> to create the svg badge</li>
-      </ol>
-      Stats are scraped daily from <ExternalLink href="https://raw.githubusercontent.com/obsidianmd/obsidian-releases/master/community-plugin-stats.json">the official JSON</ExternalLink>.
-    </ImageAndText>
-
 	<ImageAndText
 		imageHref="/images/markov_example.png"
 		imageAlt="A fake Donald Trump tweet that reads: Congressman Ted Yoho of Florida is so embarrassed by their total (100%) support of Hillary Clinton, and they're increasingly aware of the fact that Boris is exactly what the U.K. has been looking for, & will prove to be a great event of television!">
